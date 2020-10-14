@@ -1,8 +1,8 @@
 {
   "@context": "dtmi:dtdl:context;2",
-  "@id": "dtmi:com:Nishitha:BugBash;2",
+  "@id": "dtmi:com:Nishitha:Test;1",
   "@type": "Interface",
-  "displayName": "BugBash",
+  "displayName": "Test",
   "contents": [
     {
       "@type": "Telemetry",
